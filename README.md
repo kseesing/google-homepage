@@ -1,1 +1,1 @@
-In this project I deconstruct and replicate the Google homepage using HTML and CSS by using developer tools. 
+In this project I will create a facsimile of the Google homepage using HTML and CSS.  
